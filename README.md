@@ -9,3 +9,5 @@ DAY_03 : [Operators](https://www.hackerrank.com/challenges/30-operators/problem?
 DAY_04 : [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true)  ✅
 
 DAY_05 : [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true)  ✅
+
+DAY_06 : [Loops](https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true)  ✅
