@@ -11,3 +11,7 @@ DAY_04 : [Intro to Conditional Statements](https://www.hackerrank.com/challenges
 DAY_05 : [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true)  ✅
 
 DAY_06 : [Loops](https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true)  ✅
+
+DAY_07 : [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true)  ✅
+
+DAY_08 : [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true)  ✅
