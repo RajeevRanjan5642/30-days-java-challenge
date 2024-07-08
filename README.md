@@ -17,3 +17,5 @@ DAY_07 : [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/pro
 DAY_08 : [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true)  ✅
 
 DAY_09 : [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true)  ✅
+
+DAY_10 : [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true)  ✅
