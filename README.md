@@ -21,3 +21,5 @@ DAY_09 : [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictio
 DAY_10 : [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true)  ✅
 
 DAY_11 : [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true) ✅
+
+DAY_12 : [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true) ✅
