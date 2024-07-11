@@ -23,3 +23,5 @@ DAY_10 : [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/proble
 DAY_11 : [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true) ✅
 
 DAY_12 : [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true) ✅
+
+DAY_13 : [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true) ✅
