@@ -56,6 +56,7 @@ public class Solution {
         scanner.close();
 
         Book book = new MyBook(title, author, price);
+
         book.display();
     }
 }
