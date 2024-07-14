@@ -25,3 +25,9 @@ DAY_11 : [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-number
 DAY_12 : [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true) ✅
 
 DAY_13 : [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true) ✅
+
+DAY_14 : [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem?isFullScreen=true) ✅
+
+DAY_15 : [Scope](https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true) ✅
+
+DAY_16 : [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem?isFullScreen=true) ✅
