@@ -31,3 +31,5 @@ DAY_14 : [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-cl
 DAY_15 : [Scope](https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true) ✅
 
 DAY_16 : [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem?isFullScreen=true) ✅
+
+DAY_17 : [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem?isFullScreen=true) ✅
