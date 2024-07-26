@@ -37,3 +37,17 @@ DAY_17 : [Exceptions - String to Integer](https://www.hackerrank.com/challenges/
 DAY_18 : [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem?isFullScreen=true) ✅
 
 DAY_19 : [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem?isFullScreen=true) ✅
+
+DAY_21 : [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem?isFullScreen=true) ✅
+
+DAY_22 : [Generics](https://www.hackerrank.com/challenges/30-generics/problem?isFullScreen=true) ✅
+
+DAY_23 : [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem?isFullScreen=true) ✅
+
+DAY_24 : [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem?isFullScreen=true) ✅
+
+DAY_25 : [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem?isFullScreen=true) ✅
+
+DAY_26 : [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem?isFullScreen=true) ✅
+
+DAY_27 : [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem?isFullScreen=true) ✅
