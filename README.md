@@ -51,3 +51,7 @@ DAY_25 : [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-lis
 DAY_26 : [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem?isFullScreen=true) ✅
 
 DAY_27 : [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem?isFullScreen=true) ✅
+
+DAY_28 : [Testing](https://www.hackerrank.com/challenges/30-testing/problem?isFullScreen=true) ✅
+
+DAY_29 : [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem?isFullScreen=true) ✅
