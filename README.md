@@ -55,3 +55,6 @@ DAY_27 : [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/pr
 DAY_28 : [Testing](https://www.hackerrank.com/challenges/30-testing/problem?isFullScreen=true) ✅
 
 DAY_29 : [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem?isFullScreen=true) ✅
+
+DAY_30 : [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem?isFullScreen=true) ✅
+
